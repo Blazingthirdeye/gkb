@@ -6,9 +6,9 @@
 
 **3. We use Vitalik Buterin's pairwise bonding formula to dampen Sybil attacks**
 
-{% embed url="https://ethresear.ch/t/pairwise-coordination-subsidies-a-new-quadratic-funding-design/5553" %}
+  <https://ethresear.ch/t/pairwise-coordination-subsidies-a-new-quadratic-funding-design/5553>
 
 **More on our anti-sybil growth strategy here:**
 
-{% embed url="https://twitter.com/owocki/status/1273458452900151296" %}
+  <https://twitter.com/owocki/status/1273458452900151296>
 

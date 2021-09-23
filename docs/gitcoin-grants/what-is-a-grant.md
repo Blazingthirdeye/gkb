@@ -11,13 +11,10 @@ Gitcoin, with the support of the Ethereum Foundation and other matching partners
 - Round 11: 9/8/2021 - 9/23/21  
 - Round 12: TBA Q4 2021
 
-Read about the Gitcoin grants launch via this post:
+Read about the Gitcoin grants launch via this post: <https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4>
 
-{% embed url="https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4" %}
+Any question ? Make sure to check the [Grants FAQ](./grants-faq/README.md) or email us at founders@gitcoin.co.
 
-Any question ? Make sure to check the Grants FAQ or email us at founders@gitcoin.co.
-
-{% page-ref page="grants-faq/" %}
 
 
 

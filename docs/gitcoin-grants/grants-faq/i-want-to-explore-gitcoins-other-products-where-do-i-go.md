@@ -2,13 +2,11 @@
 
 **Introduce yourself on:**
 
-{% embed url="https://gitcoin.co/chat" %}
+  1. https://gitcoin.co/chat
 
-{% embed url="https://gitcoin.co/townsquare" %}
+  2. https://gitcoin.co/townsquare
 
-**Also checkout:**
-
-{% embed url="https://gitcoin.co/products" %}
+**Also checkout:**  https://gitcoin.co/products
 
 
 

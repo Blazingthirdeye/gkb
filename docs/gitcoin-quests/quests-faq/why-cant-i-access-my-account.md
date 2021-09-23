@@ -15,9 +15,7 @@ Here are some of the reasons why your account may be blocked:
 
 This is not an exhaustive list, simply the most common reasons. The Gitcoin team is responsible for creating a safe environment for users to work for the open internet and fund public goods. Our decisions are for the betterment of the ecosystem as a whole. By decentralizing Gitcoin, we will turn the power of account mediation back to the community through a transparent and politically decentralized appeal process. Please be patient with our team while the community figures out how to conduct this process. 
 
-Learn more about quadratic funding & sybil attack on our [Youtube Playlist](https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698_lHvma):
-
-{% embed url="https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698\_lHvma" %}
+Learn more about quadratic funding & sybil attack on our [Youtube Playlist](https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698_lHvma)
 
 
 
