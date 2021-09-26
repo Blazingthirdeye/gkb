@@ -14,6 +14,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'gitcoin.co', // Usually your GitHub org/user name.
   projectName: 'gitcoin-kb', // Usually your repo name.
 
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'zh-cn', 'romanian', 'spanish'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      'zh-cn': {
+        label: '中文（简体）',
+      },
+    },
+  },
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -44,6 +57,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             href: 'https://github.com/ethlibrary/gkb',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
