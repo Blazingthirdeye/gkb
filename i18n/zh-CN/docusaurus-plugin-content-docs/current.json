@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.DAO": {
+    "message": "DAO",
+    "description": "The label for category DAO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.dao-faq": {
+    "message": "dao-faq",
+    "description": "The label for category dao-faq in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Token": {
+    "message": "Token",
+    "description": "The label for category Token in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.gtc-faq": {
+    "message": "gtc-faq",
+    "description": "The label for category gtc-faq in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Grants": {
+    "message": "Grants",
+    "description": "The label for category Grants in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.grants-faq": {
+    "message": "grants-faq",
+    "description": "The label for category grants-faq in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bounties": {
+    "message": "Bounties",
+    "description": "The label for category Bounties in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.bounties-faq": {
+    "message": "bounties-faq",
+    "description": "The label for category bounties-faq in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Quests": {
+    "message": "Quests",
+    "description": "The label for category Quests in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.quests-faq": {
+    "message": "quests-faq",
+    "description": "The label for category quests-faq in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Policy": {
+    "message": "Policy",
+    "description": "The label for category Policy in sidebar tutorialSidebar"
+  }
+}
