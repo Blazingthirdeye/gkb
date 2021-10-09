@@ -2,8 +2,8 @@ name: Crowdin Sync
 
 # hourly we sync translations from Crowdin
 on:
-  schedule:
-    - cron: '0 * * * *' # every hour we sync translations from crowdin
+  # schedule:
+    # - cron: '0 * * * *' # every hour we sync translations from crowdin
 
   # manual trigger
   workflow_dispatch:
