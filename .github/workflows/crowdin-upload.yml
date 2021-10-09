@@ -43,7 +43,6 @@ jobs:
           download_translations: false
           project_id: 477775
           token: ${{ secrets.CROWDIN_PERSONAL_TOKEN_SECRET }}
-          source: 'docs/**/*.md'
-          translation: '/i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%'
+          config: 'crowdin.yml'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

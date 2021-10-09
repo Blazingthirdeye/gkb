@@ -16,12 +16,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'zh-cn', 'romanian', 'spanish'],
+    locales: ['en', 'zh', 'romanian', 'spanish'],
     localeConfigs: {
       en: {
         label: 'English',
       },
-      'zh-cn': {
+      'zh': {
         label: '中文（简体）',
       },
     },
