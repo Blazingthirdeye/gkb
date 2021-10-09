@@ -39,13 +39,13 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: Synchronize
-        uses: crowdin/github-action@1.1.0
+        uses: crowdin/github-action@1.4.0
         with:
           upload_sources: false
           download_translations: true
           project_id: 477775
           token: ${{ secrets.CROWDIN_PERSONAL_TOKEN_SECRET }}
-          source: '/docs/**/*.md'
+          source: 'docs/**/*.md'
           translation: '/i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%'
           create_pull_request: false
           localization_branch_name: main
